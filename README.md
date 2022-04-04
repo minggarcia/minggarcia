@@ -11,6 +11,6 @@
 
 ## Connect with me:
 
-<a href='linkedin.com/in/minggarcia'><img src='https://user-images.githubusercontent.com/94932856/161560901-30ca44d1-4910-4930-9bb0-3b1c147b265f.png' widht=40px height=40px/></a>
+<a href='https://www.linkedin.com/in/minggarcia/' target="_blank" rel="noopener noreferrer"><img src='https://user-images.githubusercontent.com/94932856/161560901-30ca44d1-4910-4930-9bb0-3b1c147b265f.png' widht=40px height=40px/></a>
 
 
