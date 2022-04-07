@@ -4,6 +4,8 @@
 
 
 - 🔭 I’m currently working on my final project <a href='https://final-project-knit2gether.herokuapp.com/'>knit2gether</a>
+- 🚀 Just graduated an immersive Web Development Bootcamp and would love to work as an Frontend Developer although I'm not scared of a little backend here and there. 
+- 🖍 Very interested to learn more about UX/UI and all things Frontend...
 - 🌱 I’m currently learning Typescript, Javascript, Node.js, Next.js, React.js, CSS, PostgresSQL,etc
 - 😄 Pronouns: she/her
 - 🐢 I've been coding for the past 4 months, it's challenging but i'm taking baby steps. Really loving the journey so far!
