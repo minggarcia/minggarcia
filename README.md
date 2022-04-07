@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my final project <a href='https://final-project-knit2gether.herokuapp.com/'>knit2gether</a>
 - 🌱 I’m currently learning Typescript, Javascript, Node.js, Next.js, React.js, CSS, PostgresSQL,etc
 - 😄 Pronouns: she/her
-- 🐢 I've been coding for the past 4 months now, it's challenging but i'm taking baby steps. Really loving the journey so far!
+- 🐢 I've been coding for the past 4 months, it's challenging but i'm taking baby steps. Really loving the journey so far!
 - ⚡ Fun fact: made my webapp out of my obsession with knitting 🧶
 
 <br/>
