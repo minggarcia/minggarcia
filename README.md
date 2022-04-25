@@ -8,7 +8,7 @@
 - 🖍 Very interested to learn more about UX/UI and all things Frontend...
 - 🌱 I’m currently learning Typescript, Javascript, Node.js, Next.js, React.js, CSS, PostgresSQL,etc
 - 😄 Pronouns: she/her
-- 🐢 I've been coding for the past 4 months, it's challenging but i'm taking baby steps. Really loving the journey so far!
+- 🐢 I am new to coding so i'm taking baby steps. Really loving the journey so far!
 - ⚡ Fun fact: made my webapp out of my obsession with knitting 🧶
 
 <br/>
