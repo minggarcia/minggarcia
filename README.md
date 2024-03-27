@@ -3,10 +3,10 @@
 
 
 
-- 🔭 I’m currently working on my final project <a href='https://final-project-knit2gether.herokuapp.com/'>knit2gether</a>
-- 🚀 Just graduated an immersive Web Development Bootcamp and i am now working as a junior web developer. 
+- 🔭 I’m currently working as a frontend developer at <a href="https://ff-office.com/" target=_blank">ff-office.com</a>
+- 🚀 i graduated an immersive Web Development Bootcamp and i am now working as a junior web developer. 
 - 🖍 Very interested to learn more about UX/UI and all things Frontend...
-- 🌱 I’m currently learning Typescript, Javascript, Node.js, Next.js, React.js, Vue.js, CSS, PostgresSQL,etc
+- 🌱 I’m currently learning Svelte, Typescript, Javascript, Node.js, Next.js, React.js, Vue.js, CSS, PostgresSQL,etc
 - 😄 Pronouns: she/her
 - 🐢 I am new to coding so i'm taking baby steps. Really loving the journey so far!
 - ⚡ Fun fact: made my webapp out of my obsession with knitting 🧶
