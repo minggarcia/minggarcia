@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as a frontend developer at <a href="https://ff-office.com/" target=_blank">ff-office.com</a>
+- 🔭 I’m currently working as a frontend developer at <a href="https://ff-office.com/">ff-office.com</a>
 - 🚀 i graduated an immersive Web Development Bootcamp and i am now working as a junior web developer. 
 - 🖍 Very interested to learn more about UX/UI and all things Frontend...
 - 🌱 I’m currently learning Svelte, Typescript, Javascript, Node.js, Next.js, React.js, Vue.js, CSS, PostgresSQL,etc
